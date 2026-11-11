@@ -1,5 +1,4 @@
 #include <Arduino.h>
-
 #include <M5_Encoder.h>
 M5_Encoder monEncodeur;
 #include <MicroOscSlip.h>
